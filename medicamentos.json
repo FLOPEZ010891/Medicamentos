@@ -1,0 +1,74 @@
+{
+  "medicamentos": [
+    {
+      "nombre": "Paracetamol",
+      "dosis": "500 mg cada 8 horas",
+      "contraindicaciones": "No usar en caso de enfermedad hepática severa",
+      "para_que_sirve": "Alivio de dolor y fiebre",
+      "informacion_adicional": "Puede tomarse con o sin alimentos"
+    },
+    {
+      "nombre": "Ibuprofeno",
+      "dosis": "400 mg cada 6-8 horas",
+      "contraindicaciones": "No usar en caso de úlcera péptica activa o insuficiencia renal severa",
+      "para_que_sirve": "Alivio del dolor, inflamación y fiebre",
+      "informacion_adicional": "Tomar con alimentos para evitar irritación gástrica"
+    },
+    {
+      "nombre": "Amoxicilina",
+      "dosis": "500 mg cada 8 horas por 7-10 días",
+      "contraindicaciones": "Alergia a penicilinas",
+      "para_que_sirve": "Tratamiento de infecciones bacterianas",
+      "informacion_adicional": "Completar el tratamiento completo incluso si se siente mejor antes"
+    },
+    {
+      "nombre": "Metformina",
+      "dosis": "500 mg dos veces al día",
+      "contraindicaciones": "Insuficiencia renal severa, acidosis metabólica",
+      "para_que_sirve": "Control de la glucosa en diabetes tipo 2",
+      "informacion_adicional": "Tomar durante las comidas para reducir efectos gastrointestinales"
+    },
+    {
+      "nombre": "Loratadina",
+      "dosis": "10 mg una vez al día",
+      "contraindicaciones": "Hipersensibilidad a loratadina",
+      "para_que_sirve": "Alivio de síntomas de alergias como rinitis y urticaria",
+      "informacion_adicional": "No suele causar somnolencia"
+    },
+    {
+      "nombre": "Omeprazol",
+      "dosis": "20 mg una vez al día",
+      "contraindicaciones": "Hipersensibilidad a omeprazol",
+      "para_que_sirve": "Tratamiento de úlceras gástricas y reflujo gastroesofágico",
+      "informacion_adicional": "Tomar antes del desayuno"
+    },
+    {
+      "nombre": "Losartan",
+      "dosis": "50 mg una vez al día",
+      "contraindicaciones": "Embarazo, hipersensibilidad a losartán",
+      "para_que_sirve": "Tratamiento de hipertensión arterial",
+      "informacion_adicional": "Puede tomarse con o sin alimentos"
+    },
+    {
+      "nombre": "Salbutamol",
+      "dosis": "100 mcg (1 inhalación) cada 4-6 horas según sea necesario",
+      "contraindicaciones": "Hipersensibilidad a salbutamol",
+      "para_que_sirve": "Alivio de broncospasmo en asma y EPOC",
+      "informacion_adicional": "Agitar bien antes de usar"
+    },
+    {
+      "nombre": "Cetirizina",
+      "dosis": "10 mg una vez al día",
+      "contraindicaciones": "Hipersensibilidad a cetirizina",
+      "para_que_sirve": "Alivio de síntomas de alergias como rinitis y urticaria",
+      "informacion_adicional": "Puede causar somnolencia en algunas personas"
+    },
+    {
+      "nombre": "Amlodipino",
+      "dosis": "5 mg una vez al día",
+      "contraindicaciones": "Hipersensibilidad a amlodipino",
+      "para_que_sirve": "Tratamiento de hipertensión arterial y angina de pecho",
+      "informacion_adicional": "Puede tomarse con o sin alimentos"
+    }
+  ]
+}
